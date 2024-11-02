@@ -1,19 +1,21 @@
-Mapping Quality Judgment In International Relations: Cognitive Dimensions And Sociological Correlates
-October 24, 2024
-Fabricio Chagas-Bastos & Peter Kristensen
-fchagasbastos@gmail.com
+Mapping Quality Judgment in International Relations: Cognitive Dimensions and Sociological Correlates
 
+Perspectives on Politics
+
+October 31, 2024
+Fabricio Chagas-Bastos & Peter Kristensen
+
+fchagasbastos@gmail.com
+pmk@ifs.ku.dk
 
 List of replication files: 
 
-Codebook.pdf
-
-Quality IR_2022-2023_20230402.xlsx - Excel file with the main dataset.
-NorthSouth_coding.csv – Detail of countries’ coding as part of the South (1) or the North (0).
-
-Functions.R — Functions used in the analysis, no need to run it. 
-
-AnnotatedCode.R — Analysis of the datasets. This generates the following tables and figures in folder called ResultFiles:
+1 Article_IR Know Quality_ChagasBastos-Kristensen_Codeboook - Word file with the codebook for variables.
+2 Article_IR Know Quality_ChagasBastos-Kristensen_Dataset_2022-2023.xlsx - Excel file with the dataset.
+3 Article_IR Know Quality_ChagasBastos-Kristensen_Coding_NorthSouth.xslx – Detail of countries’ coding as part of the South (1) or the North (0).
+4 Article_IR Know Quality_ChagasBastos-Kristensen_Supplementary File_20240821.docx
+5 Article_IR Know Quality_ChagasBastos-Kristensen_AnnotatedCode.R 
+6 Article_IR Know Quality_ChagasBastos-Kristensen_Functions.R — Analysis of the datasets. This generates the following tables and figures in folder called ResultFiles:
 - Figure A1
 - Table 1
 - Table 2
@@ -23,20 +25,17 @@ AnnotatedCode.R — Analysis of the datasets. This generates the following table
 - Table A1
 - Table A2
 
-
 All of the following analyses were carried out using the following session:
 R version 4.2.2 (2022-10-31)
 Platform: x86_64-apple-darwin17.0 (64-bit)
 Running under: macOS Big Sur 11.7.10
 
 Matrix products: default
-LAPACK: /Library/Frameworks/R.framework/Versions/4.2/Resources/lib/libRlapack.dylib
+LAPACK
 
-locale:
-[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+locale: [1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
 
-attached base packages:
-[1] stats     graphics  grDevices utils     datasets  methods   base     
+attached base packages: [1] stats     graphics  grDevices utils     datasets  methods   base     
 
 other attached packages:
  [1] Hmisc_5.1-1       fastDummies_1.7.3 lm.beta_1.7-2     writexl_1.4.2    
