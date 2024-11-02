@@ -14,8 +14,9 @@ List of replication files:
 2 Article_IR Know Quality_ChagasBastos-Kristensen_Dataset_2022-2023.xlsx - Excel file with the dataset.
 3 Article_IR Know Quality_ChagasBastos-Kristensen_Coding_NorthSouth.xslx – Detail of countries’ coding as part of the South (1) or the North (0).
 4 Article_IR Know Quality_ChagasBastos-Kristensen_Supplementary File_20240821.docx
-5 Article_IR Know Quality_ChagasBastos-Kristensen_AnnotatedCode.R 
+5 Article_IR Know Quality_ChagasBastos-Kristensen_AnnotatedCode.R
 6 Article_IR Know Quality_ChagasBastos-Kristensen_Functions.R — Analysis of the datasets. This generates the following tables and figures in folder called ResultFiles:
+
 - Figure A1
 - Table 1
 - Table 2
@@ -35,7 +36,7 @@ LAPACK
 
 locale: [1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
 
-attached base packages: [1] stats     graphics  grDevices utils     datasets  methods   base     
+attached base packages: [1] stats     graphics  grDevices utils     datasets  methods   base
 
 other attached packages:
  [1] Hmisc_5.1-1       fastDummies_1.7.3 lm.beta_1.7-2     writexl_1.4.2    
