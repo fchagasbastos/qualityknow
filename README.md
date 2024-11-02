@@ -4,15 +4,13 @@ Perspectives on Politics
 
 October 31, 2024
 
-Fabricio Chagas-Bastos & Peter Kristensen
-
-fchagasbastos@gmail.com & pmk@ifs.ku.dk
+Fabricio Chagas-Bastos (fchagasbastos@gmail.com) & Peter Kristensen (pmk@ifs.ku.dk)
 
 List of replication files:
 
-1 Article_IR Know Quality_ChagasBastos-Kristensen_Codeboook - Word file with the codebook for variables.
-2 Article_IR Know Quality_ChagasBastos-Kristensen_Dataset_2022-2023.xlsx - Excel file with the dataset.
-3 Article_IR Know Quality_ChagasBastos-Kristensen_Coding_NorthSouth.xslx – Detail of countries’ coding as part of the South (1) or the North (0).
+- Article_IR Know Quality_ChagasBastos-Kristensen_Codeboook - Word file with the codebook for variables.
+- Article_IR Know Quality_ChagasBastos-Kristensen_Dataset_2022-2023.xlsx - Excel file with the dataset.
+- Article_IR Know Quality_ChagasBastos-Kristensen_Coding_NorthSouth.xslx – Detail of countries’ coding as part of the South (1) or the North (0).
 4 Article_IR Know Quality_ChagasBastos-Kristensen_Supplementary File_20240821.docx
 5 Article_IR Know Quality_ChagasBastos-Kristensen_AnnotatedCode.R
 6 Article_IR Know Quality_ChagasBastos-Kristensen_Functions.R — Analysis of the datasets. This generates the following tables and figures in folder called ResultFiles:
