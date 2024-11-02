@@ -3,12 +3,12 @@ Mapping Quality Judgment in International Relations: Cognitive Dimensions and So
 Perspectives on Politics
 
 October 31, 2024
+
 Fabricio Chagas-Bastos & Peter Kristensen
 
-fchagasbastos@gmail.com
-pmk@ifs.ku.dk
+fchagasbastos@gmail.com & pmk@ifs.ku.dk
 
-List of replication files: 
+List of replication files:
 
 1 Article_IR Know Quality_ChagasBastos-Kristensen_Codeboook - Word file with the codebook for variables.
 2 Article_IR Know Quality_ChagasBastos-Kristensen_Dataset_2022-2023.xlsx - Excel file with the dataset.
