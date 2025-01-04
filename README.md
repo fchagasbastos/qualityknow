@@ -8,13 +8,13 @@ Fabricio Chagas-Bastos (fchagasbastos@usp.br | fcb@bu.edu) & Peter Kristensen (p
 
 List of replication files:
 
-Article_IR Know Quality_ChagasBastos-Kristensen_Codeboook - Word file with the codebook for variables
+Article_IR Know Quality_ChagasBastos-Kristensen_Codeboook.docx - Word file with the codebook for variables
 
 Article_IR Know Quality_ChagasBastos-Kristensen_Dataset_2022-2023.xlsx - Excel file with the dataset
 
 Article_IR Know Quality_ChagasBastos-Kristensen_Coding_NorthSouth.xslx – Detail of countries’ coding as part of the South (1) or the North (0)
 
-Article_IR Know Quality_ChagasBastos-Kristensen_Supplementary File_20240821.docx
+Article_IR Know Quality_ChagasBastos-Kristensen_Supplementary Material.docx
 
 Article_IR Know Quality_ChagasBastos-Kristensen_AnnotatedCode.R
 
