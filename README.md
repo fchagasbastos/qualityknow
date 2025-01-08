@@ -4,7 +4,7 @@ Perspectives on Politics
 
 October 31, 2024
 
-Fabricio Chagas-Bastos (fchagasbastos@usp.br | fcb@bu.edu) & Peter Kristensen (pmk@ifs.ku.dk)
+Fabricio Chagas-Bastos & Peter Kristensen
 
 List of replication files:
 
